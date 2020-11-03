@@ -1,2 +1,2 @@
 def echang(list):
-  var list = 0
+  var list = 0f
